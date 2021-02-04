@@ -5,7 +5,7 @@ This repository contains the source code for the paper [Auxiliary Task Update De
 ---
 
 <p align="center"> 
-    <img src="https://github.com/ldery/ATTITUD/blob/main/g_aux_11-1.png" width="800">
+    <img src="https://github.com/ldery/ATTITTUD/blob/main/g_aux_11-1.png" width="800">
 </p>
 
 ## Links
