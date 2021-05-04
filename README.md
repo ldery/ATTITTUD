@@ -11,7 +11,7 @@ This repository contains the source code for the paper [Auxiliary Task Update De
 ## Links
 
 1. [Paper](https://openreview.net/forum?id=1GTma8HwlYp)
-2. [Bibtext]
+2. Bibtext :
 ```
 @inproceedings{
 	dery2021auxiliary,
