@@ -146,9 +146,6 @@ class Trainer(object):
 		grads = reshape_grad_vector(grad_vec, model.param_shapes())
 		return low_rank, grads
 
-	
-# LDERY = todo => this is where you left off in cleaning up the code !!
-
 	# get val gradients and do a low rank Orthonormal approx.
 	def get_ortho_grad_basis(self, model, base_set, val_set):
 		base_set_x, base_set_y = base_set
